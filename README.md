@@ -1,9 +1,10 @@
 ### _YOUNGEUN's Github_ 👋
 
 WELCOME! <br>
-[?!](https://www.olchiolchi.com/wp-content/uploads/2022/03/%EB%9D%BC%EC%BF%A4.jpg)
+>[click! 🦝](https://www.olchiolchi.com/wp-content/uploads/2022/03/%EB%9D%BC%EC%BF%A4.jpg)
 
-- [x] Hi
+
+- [x] Nice to meet you
 - [ ] Bye
 
 
