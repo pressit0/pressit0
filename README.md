@@ -1,4 +1,4 @@
-### _YOUNGEUN's Github_ 👋
+### _YE's Github_ 👋
 
 WELCOME! <br>
 >[click! 🦝](https://www.olchiolchi.com/wp-content/uploads/2022/03/%EB%9D%BC%EC%BF%A4.jpg)
