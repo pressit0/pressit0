@@ -1,4 +1,11 @@
-### Hi there 👋
+### _YOUNGEUN's Github_ 👋
+
+WELCOME! <br>
+[?!](https://www.olchiolchi.com/wp-content/uploads/2022/03/%EB%9D%BC%EC%BF%A4.jpg)
+
+- [x] Hi
+- [ ] Bye
+
 
 <!--
 **pressit0/pressit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
